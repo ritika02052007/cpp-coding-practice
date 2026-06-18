@@ -1,3 +1,5 @@
+// wap to check the number if it is armstorng or not
+
 #include<iostream>
 using namespace std;
 int main(){
